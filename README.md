@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact **I taught my computer to see me move — now it just asks for a coffee break.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
